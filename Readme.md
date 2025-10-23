@@ -40,9 +40,9 @@ Relaciona os cafés vendidos em cada comanda.
 
 ## Consultas SQL Implementadas
 
-1. **Listagem do cardápio ordenada por nome**
-2. **Listagem de comandas com itens detalhados** (nome do café, descrição, quantidade, preço unitário e total)
-3. **Valor total de cada comanda**
-4. **Filtrar comandas com mais de um tipo de café**
-5. **Faturamento total por data**
+1. **Listagem do cardápio ordenada por nome.**
+2. **Listagem de comandas com itens detalhados (nome do café, descrição, quantidade, preço unitário e total).**
+3. **Valor total de cada comanda.**
+4. **Filtrar comandas com mais de um tipo de café.**
+5. **Faturamento total por data.**
 
